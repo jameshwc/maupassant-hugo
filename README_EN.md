@@ -122,7 +122,7 @@ Ads Preview [http://www.flysnow.org/](http://www.flysnow.org/)
 #### Google Analytics
 
 ```toml
-googleAnalytics = "GA ID"
+googleAnalytics = "G-xxxxxxxxxx"
 ```
 
 #### Custonm Summaries

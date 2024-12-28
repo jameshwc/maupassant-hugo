@@ -178,9 +178,10 @@ type: "search"
 
 #### 添加GA分析统计
 
-该主题已经支持了GA分析统计，只需要在`config.toml`配置里加入如下配置即可。
+该主题已经支持了GA4分析统计，只需要在`config.toml`配置里加入如下配置即可。
+一定要使用最新的GA4分析，填写`衡量ID`，以`G-`开头。
 ```toml
-googleAnalytics = "GA ID"
+googleAnalytics = "G-xxxxxxxxxx"
 ```
 
 #### 文章归档支持
